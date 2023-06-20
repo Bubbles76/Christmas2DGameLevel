@@ -2,12 +2,14 @@
 
 Simple game level
 
-Requirements
+Requirements:
 The game is a simple 2d platform where you control Santa in his sled with his reindeers pulling him along. 
+
+Game storyline:
 He was just leaving the north pole when he accidently knocks the sack of presents. 
-Causing the sack to untidy letting multiple gifts tumble off the sled, He needs to retrieve all the gifts that have fallen down before there lost in the snow. 
+Causing the tie of the sack to undo, letting multiple gifts tumble off the sled, He needs to retrieve all the gifts that have fallen down before they are all lost in the snow. 
 Santa must collect them fast or he won’t be able to deliver all the presents in time for Christmas morning. 
-also be careful to watch out for the spinning spikes they hurt Santa and his reindeers lowering his helth bar.
+Also be careful to watch out for the spinning spikes they hurt Santa and his reindeers lowering his health bar.
 
 
 
