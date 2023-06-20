@@ -1,0 +1,2059 @@
+fileFormatVersion: 2
+guid: 7d03877214fdb684699471c65056ea48
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5099276802036695320
+    second: BG_icy_feature_0
+  - first:
+      213: 8084913814860774811
+    second: BG_icy_feature_1
+  - first:
+      213: 953641171893342863
+    second: BG_icy_feature_2
+  - first:
+      213: 8655165888256129890
+    second: BG_icy_feature_3
+  - first:
+      213: -9138600024992349201
+    second: BG_icy_feature_4
+  - first:
+      213: -1453548920344222514
+    second: BG_icy_feature_5
+  - first:
+      213: 11670274718313983
+    second: BG_icy_feature_6
+  - first:
+      213: 4616279767624329162
+    second: BG_icy_feature_7
+  - first:
+      213: -7647765191658186943
+    second: BG_icy_feature_8
+  - first:
+      213: -4215980052432308910
+    second: BG_icy_feature_9
+  - first:
+      213: 2622971507031397312
+    second: BG_icy_feature_10
+  - first:
+      213: -4183258650890048301
+    second: BG_icy_feature_11
+  - first:
+      213: 9136654473373807393
+    second: BG_icy_feature_12
+  - first:
+      213: -4049806493183189386
+    second: BG_icy_feature_13
+  - first:
+      213: -2473919888321585209
+    second: BG_icy_feature_14
+  - first:
+      213: -5875424957808014123
+    second: BG_icy_feature_15
+  - first:
+      213: -5940257425287480511
+    second: BG_icy_feature_16
+  - first:
+      213: -8156105912763137331
+    second: BG_icy_feature_17
+  - first:
+      213: -7207480818966351660
+    second: BG_icy_feature_18
+  - first:
+      213: 9112184474832236637
+    second: BG_icy_feature_19
+  - first:
+      213: 9212771232621646342
+    second: BG_icy_feature_20
+  - first:
+      213: -3998209302531330864
+    second: BG_icy_feature_21
+  - first:
+      213: -1061762207210778103
+    second: BG_icy_feature_22
+  - first:
+      213: -4222062533427526401
+    second: BG_icy_feature_23
+  - first:
+      213: -6612565146605743307
+    second: BG_icy_feature_24
+  - first:
+      213: 8618973194596339051
+    second: BG_icy_feature_25
+  - first:
+      213: -8165122978084523349
+    second: BG_icy_feature_26
+  - first:
+      213: 7492382026799517582
+    second: BG_icy_feature_27
+  - first:
+      213: 562668754287516346
+    second: BG_icy_feature_28
+  - first:
+      213: -4807355910649089652
+    second: BG_icy_feature_29
+  - first:
+      213: -673948870786762203
+    second: BG_icy_feature_30
+  - first:
+      213: 1228250211253330102
+    second: BG_icy_feature_31
+  - first:
+      213: -6027607504813394659
+    second: BG_icy_feature_32
+  - first:
+      213: -6589226763538598658
+    second: BG_icy_feature_33
+  - first:
+      213: -7748339801383903673
+    second: BG_icy_feature_34
+  - first:
+      213: 3009737481111530429
+    second: BG_icy_feature_35
+  - first:
+      213: -1160086318132686338
+    second: BG_icy_feature_36
+  - first:
+      213: 651382218246871610
+    second: BG_icy_feature_37
+  - first:
+      213: -6891309982534807574
+    second: BG_icy_feature_38
+  - first:
+      213: -8364016163528412205
+    second: BG_icy_feature_39
+  - first:
+      213: -1004491991873712288
+    second: BG_icy_feature_40
+  - first:
+      213: -5788807586910006870
+    second: BG_icy_feature_41
+  - first:
+      213: -4372741842368190601
+    second: BG_icy_feature_42
+  - first:
+      213: -8393168983728036716
+    second: BG_icy_feature_43
+  - first:
+      213: 7726814993561977102
+    second: BG_icy_feature_44
+  - first:
+      213: -648699399065539619
+    second: BG_icy_feature_45
+  - first:
+      213: -8945563214240355569
+    second: BG_icy_feature_46
+  - first:
+      213: -5068160081514073214
+    second: BG_icy_feature_47
+  - first:
+      213: 1960592907988119232
+    second: BG_icy_feature_48
+  - first:
+      213: 8667257072391776333
+    second: BG_icy_feature_49
+  - first:
+      213: -3911768788840640761
+    second: BG_icy_feature_50
+  - first:
+      213: 7549033136237223699
+    second: BG_icy_feature_51
+  - first:
+      213: -8252720578549691287
+    second: BG_icy_feature_52
+  - first:
+      213: 7466026589981789955
+    second: BG_icy_feature_53
+  - first:
+      213: -6633115679231006051
+    second: BG_icy_feature_54
+  - first:
+      213: -5669433148554904107
+    second: BG_icy_feature_55
+  - first:
+      213: -1517060417316232784
+    second: BG_icy_feature_56
+  - first:
+      213: 1977085843418534664
+    second: BG_icy_feature_57
+  - first:
+      213: 7633102861184428400
+    second: BG_icy_feature_58
+  - first:
+      213: -1447506836040978130
+    second: BG_icy_feature_59
+  - first:
+      213: 8548547772011164462
+    second: BG_icy_feature_60
+  - first:
+      213: -2697425635131754509
+    second: BG_icy_feature_61
+  - first:
+      213: 9202592923414532256
+    second: BG_icy_feature_62
+  - first:
+      213: 2604985455457316201
+    second: BG_icy_feature_63
+  - first:
+      213: 9145875924560794536
+    second: BG_icy_feature_64
+  - first:
+      213: -9149383230676706773
+    second: BG_icy_feature_65
+  - first:
+      213: -4353613616039153565
+    second: BG_icy_feature_66
+  - first:
+      213: -2695254350098296684
+    second: BG_icy_feature_67
+  - first:
+      213: 867531762659131940
+    second: BG_icy_feature_68
+  - first:
+      213: -7687831517077554882
+    second: BG_icy_feature_69
+  - first:
+      213: -4579572216396414978
+    second: BG_icy_feature_70
+  - first:
+      213: -2349502142667110511
+    second: BG_icy_feature_71
+  - first:
+      213: 163441484297969444
+    second: BG_icy_feature_72
+  - first:
+      213: -2821280753103464896
+    second: BG_icy_feature_73
+  - first:
+      213: 6995086738544797470
+    second: BG_icy_feature_74
+  - first:
+      213: 319026970847355952
+    second: BG_icy_feature_75
+  - first:
+      213: 1915516614087487879
+    second: BG_icy_feature_76
+  - first:
+      213: -5935607327185252901
+    second: BG_icy_feature_77
+  - first:
+      213: -4815037691908719052
+    second: BG_icy_feature_78
+  - first:
+      213: -2671861583043639025
+    second: BG_icy_feature_79
+  - first:
+      213: 1659842060316826658
+    second: BG_icy_feature_80
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BG_icy_feature_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 536
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 809830292559a8c4d8985b6770adb4a8
+      internalID: -5099276802036695320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_icy_feature_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 536
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f89f4e8732e180b40ba3ccb69bddadf6
+      internalID: 8084913814860774811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_icy_feature_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 536
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46c2850d6da1d0244a5c0f05489676ac
+      internalID: 953641171893342863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_icy_feature_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 536
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e5e2144227fcc04aa4c61be4332b2b1
+      internalID: 8655165888256129890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_icy_feature_4
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 536
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 756b84d9c5619ae44b00d75e35f9be39
+      internalID: -9138600024992349201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_icy_feature_5
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 536
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ac2f2b6342e48144942ebf14117937e
+      internalID: -1453548920344222514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_icy_feature_6
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 536
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe865f65d3ad8bf43b24ef57c2f51ecb
+      internalID: 11670274718313983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_icy_feature_7
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 536
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cc27b7a8a2aa234dbf6366001e90106
+      internalID: 4616279767624329162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_icy_feature_8
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 536
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2d8026c91dc9d34baa0d9897641b8ad
+      internalID: -7647765191658186943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_icy_feature_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 472
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f2a151e000d68b4481d7718b83999f9
+      internalID: -4215980052432308910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_icy_feature_10
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 472
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55d9182937975434596da44cff5829cd
+      internalID: 2622971507031397312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_icy_feature_11
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 472
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 618e62b810ac45e46808b1816c4a4b03
+      internalID: -4183258650890048301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_icy_feature_12
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 472
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ad69fe773acb2543b5045c2f5fe2339
+      internalID: 9136654473373807393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_icy_feature_13
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 472
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5635162e2ff60344974c69950be42a0
+      internalID: -4049806493183189386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_icy_feature_14
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 472
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0633b8ffa2c29649ae48d79e5e64aea
+      internalID: -2473919888321585209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_icy_feature_15
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 472
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a97ca4d933377a2489e9d88850d56b48
+      internalID: -5875424957808014123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_icy_feature_16
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 472
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 300cb8567be904b4d80de01d0f2268c2
+      internalID: -5940257425287480511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_icy_feature_17
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 472
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c68b1382e4d195140bcb9ea2e8c7f1a7
+      internalID: -8156105912763137331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_icy_feature_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 408
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f212b298d538f1a44a7a1cd2e996a5a7
+      internalID: -7207480818966351660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_icy_feature_19
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 408
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cbb166519e35ed458feb6ebb35368f0
+      internalID: 9112184474832236637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_icy_feature_20
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 408
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a697c9d0b81ff840b68cb9c1d0124a7
+      internalID: 9212771232621646342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_icy_feature_21
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 408
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c049f27cb12b10429d5cb109655e50a
+      internalID: -3998209302531330864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_icy_feature_22
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 408
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e1a502d0ebd4b641889003bbe3633e8
+      internalID: -1061762207210778103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_icy_feature_23
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 408
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f16b7d3daa117004eb172ff1b3ddad9e
+      internalID: -4222062533427526401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_icy_feature_24
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 408
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 584a54d748a14144f832599814c7e912
+      internalID: -6612565146605743307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_icy_feature_25
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 408
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 950e059bce3bff24eb43a6a36bafbd51
+      internalID: 8618973194596339051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_icy_feature_26
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 408
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9732b66930bcad4db8e4f3fde9ba236
+      internalID: -8165122978084523349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_icy_feature_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 344
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b1b2c123342fa545abd6e1e7a0f37bc
+      internalID: 7492382026799517582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_icy_feature_28
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 344
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78eedadfec2497748a8dd9d4e4983978
+      internalID: 562668754287516346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_icy_feature_29
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 344
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0495073bbb6c91345820792ce973f920
+      internalID: -4807355910649089652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_icy_feature_30
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 344
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6f2b52297cf4f9448464a3ce38aff7a
+      internalID: -673948870786762203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_icy_feature_31
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 344
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5275a9f2d02e6dd45849c0c3afa14952
+      internalID: 1228250211253330102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_icy_feature_32
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 344
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66c5c440e06c23b46b4e5ab87606e9e3
+      internalID: -6027607504813394659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_icy_feature_33
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 344
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82afbed3d4461d244911555c9b2e98f5
+      internalID: -6589226763538598658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_icy_feature_34
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 344
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 246371d5d90f23e48a471505b1b13ec8
+      internalID: -7748339801383903673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_icy_feature_35
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 344
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b644f6aa98c1eb74eae9fffda02b2f83
+      internalID: 3009737481111530429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_icy_feature_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 280
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27238cce0187e45479c45387e28decae
+      internalID: -1160086318132686338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_icy_feature_37
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 280
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe55a44f17f585e4baba4b2e6732a757
+      internalID: 651382218246871610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_icy_feature_38
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 280
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e291322afe08fe74b8ff180566192c81
+      internalID: -6891309982534807574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_icy_feature_39
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 280
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd8c2690a92ae954f84499523bd6d2d5
+      internalID: -8364016163528412205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_icy_feature_40
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 280
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f0e0df05890548448a8d2bcd358eaf2
+      internalID: -1004491991873712288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_icy_feature_41
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 280
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d02b63892682139419de1c75cf9aff59
+      internalID: -5788807586910006870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_icy_feature_42
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 280
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca198359d2ad45340af19fd9424e1954
+      internalID: -4372741842368190601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_icy_feature_43
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 280
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c329c21f13f0174ca22e7dbf3448620
+      internalID: -8393168983728036716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_icy_feature_44
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 280
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 437edbebc509c3045a02bc64c1cae4f2
+      internalID: 7726814993561977102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_icy_feature_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 216
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 566fb8342c6da8b468e491b8352922e2
+      internalID: -648699399065539619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_icy_feature_46
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 216
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e5372a2fefdb0a4087bec3b7228ef6d
+      internalID: -8945563214240355569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_icy_feature_47
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 216
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65805201f9fed454ca6f3d29510edf37
+      internalID: -5068160081514073214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_icy_feature_48
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 216
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a802eeb1b174be41846027e9d3e708b
+      internalID: 1960592907988119232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_icy_feature_49
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 216
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab9f0b0e273b49545be2429f70ac4d1f
+      internalID: 8667257072391776333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_icy_feature_50
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 216
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf87979301ceb1046b086d0f3de4cb21
+      internalID: -3911768788840640761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_icy_feature_51
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 216
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23a64f8d9a4ae2f4e9d2dc936619fc3c
+      internalID: 7549033136237223699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_icy_feature_52
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 216
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc4952f8a32cc0c419c3f120a0049c7f
+      internalID: -8252720578549691287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_icy_feature_53
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 216
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fa76a3e275ae564f91bb03b0bf86152
+      internalID: 7466026589981789955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_icy_feature_54
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 152
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8fc84295c9c8f34aa64c8320faa7a79
+      internalID: -6633115679231006051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_icy_feature_55
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 152
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6100d49f5825a0844ba40f2c1753c344
+      internalID: -5669433148554904107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_icy_feature_56
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 152
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 566923cfcbc916e4886d18540cd9d395
+      internalID: -1517060417316232784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_icy_feature_57
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 152
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80b56bd896865d8478af07b4607ab06d
+      internalID: 1977085843418534664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_icy_feature_58
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 152
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fe2ab10ba186164dbe4d3de9830575b
+      internalID: 7633102861184428400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_icy_feature_59
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 152
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c373bbf67a12e24ea03635c1e52b4f5
+      internalID: -1447506836040978130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_icy_feature_60
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 152
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4d59c392eebc174084acbad1267c1a6
+      internalID: 8548547772011164462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_icy_feature_61
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 152
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b698c95fe040ba04f924e639683a5a98
+      internalID: -2697425635131754509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_icy_feature_62
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 152
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3370d0e32b0a6b849a515e721fc9bfb9
+      internalID: 9202592923414532256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_icy_feature_63
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 88
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00abd11cce36bd74ba8315bac0c3cc1a
+      internalID: 2604985455457316201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_icy_feature_64
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 88
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 232d13f6377f13d43bec7a970593e92b
+      internalID: 9145875924560794536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_icy_feature_65
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 88
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50cf2cdb914ce9b418c797f4f1bc24b9
+      internalID: -9149383230676706773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_icy_feature_66
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 88
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c2accc364d0cfd4da09c75cc8591992
+      internalID: -4353613616039153565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_icy_feature_67
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 88
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 728926ec231446d459e7f60261af0831
+      internalID: -2695254350098296684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_icy_feature_68
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 88
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 607eaf2dec4933641b607671d5d41300
+      internalID: 867531762659131940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_icy_feature_69
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 88
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b50ecaafc4ba8ff4bb10c358354541fd
+      internalID: -7687831517077554882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_icy_feature_70
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 88
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24456cac1c7da5a4e96131a1b3584741
+      internalID: -4579572216396414978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_icy_feature_71
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 88
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22dd9a87d441db5458d815938c264e40
+      internalID: -2349502142667110511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_icy_feature_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 24
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74baf3049c0341b429ea42c42ef8df11
+      internalID: 163441484297969444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_icy_feature_73
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 24
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 326ce89948d826645af3da61e1cca3ec
+      internalID: -2821280753103464896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_icy_feature_74
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 24
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fd09d2ac0b116d44933bae7e06b86c7
+      internalID: 6995086738544797470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_icy_feature_75
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 24
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3070990d983dd1b45a067c04dec4865b
+      internalID: 319026970847355952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_icy_feature_76
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 24
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4fc48de39f7f6246b45e3cc0c2b9cda
+      internalID: 1915516614087487879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_icy_feature_77
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 24
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9868f6cddf531f444b0d898a006c1bc8
+      internalID: -5935607327185252901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_icy_feature_78
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 24
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 962e75fa308449a46b3701312458cf40
+      internalID: -4815037691908719052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_icy_feature_79
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 24
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 199cb653525328547befc08b2514fffe
+      internalID: -2671861583043639025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_icy_feature_80
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 24
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c0b9698016ccb745ac78cd4b4787506
+      internalID: 1659842060316826658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

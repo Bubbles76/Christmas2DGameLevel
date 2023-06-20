@@ -1,0 +1,2059 @@
+fileFormatVersion: 2
+guid: 153f7d322992ee242ada6a48542eb666
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7665443076772965434
+    second: snow-present sprite (2)_0
+  - first:
+      213: -8825524127745461316
+    second: snow-present sprite (2)_1
+  - first:
+      213: -5926485539626729473
+    second: snow-present sprite (2)_2
+  - first:
+      213: 6542694353016876193
+    second: snow-present sprite (2)_3
+  - first:
+      213: -8225947024602773441
+    second: snow-present sprite (2)_4
+  - first:
+      213: 7574905737726715501
+    second: snow-present sprite (2)_5
+  - first:
+      213: -676199548357845005
+    second: snow-present sprite (2)_6
+  - first:
+      213: -1996100802019178380
+    second: snow-present sprite (2)_7
+  - first:
+      213: 6887170503615262014
+    second: snow-present sprite (2)_8
+  - first:
+      213: -6996863257694753747
+    second: snow-present sprite (2)_9
+  - first:
+      213: 5203899367712757210
+    second: snow-present sprite (2)_10
+  - first:
+      213: -1329675161196861563
+    second: snow-present sprite (2)_11
+  - first:
+      213: -1350732500497722778
+    second: snow-present sprite (2)_12
+  - first:
+      213: -1877159043364316073
+    second: snow-present sprite (2)_13
+  - first:
+      213: -8023753177140327153
+    second: snow-present sprite (2)_14
+  - first:
+      213: -1693817608999903689
+    second: snow-present sprite (2)_15
+  - first:
+      213: 6022967222652268459
+    second: snow-present sprite (2)_16
+  - first:
+      213: -3261343896620082298
+    second: snow-present sprite (2)_17
+  - first:
+      213: -732700220261604108
+    second: snow-present sprite (2)_18
+  - first:
+      213: -1438001468962557376
+    second: snow-present sprite (2)_19
+  - first:
+      213: 6790199603842284490
+    second: snow-present sprite (2)_20
+  - first:
+      213: 255837520088221128
+    second: snow-present sprite (2)_21
+  - first:
+      213: -4561242464368573234
+    second: snow-present sprite (2)_22
+  - first:
+      213: 8244575392155506023
+    second: snow-present sprite (2)_23
+  - first:
+      213: 8953906944519837770
+    second: snow-present sprite (2)_24
+  - first:
+      213: 2246391458440422446
+    second: snow-present sprite (2)_25
+  - first:
+      213: -9016601523051258392
+    second: snow-present sprite (2)_26
+  - first:
+      213: -9094699730959766113
+    second: snow-present sprite (2)_27
+  - first:
+      213: 2611085260587158339
+    second: snow-present sprite (2)_28
+  - first:
+      213: -2204106720518779391
+    second: snow-present sprite (2)_29
+  - first:
+      213: 527003393741863361
+    second: snow-present sprite (2)_30
+  - first:
+      213: -4620896612707366680
+    second: snow-present sprite (2)_31
+  - first:
+      213: -3198937592181009853
+    second: snow-present sprite (2)_32
+  - first:
+      213: -1309205006359641382
+    second: snow-present sprite (2)_33
+  - first:
+      213: -6285085632083866846
+    second: snow-present sprite (2)_34
+  - first:
+      213: -9135204119445431061
+    second: snow-present sprite (2)_35
+  - first:
+      213: -7789126467319770327
+    second: snow-present sprite (2)_36
+  - first:
+      213: 8732274884012052545
+    second: snow-present sprite (2)_37
+  - first:
+      213: 6377315725941637720
+    second: snow-present sprite (2)_38
+  - first:
+      213: -492689606340247696
+    second: snow-present sprite (2)_39
+  - first:
+      213: 5518925480013846339
+    second: snow-present sprite (2)_40
+  - first:
+      213: 5865832215304184198
+    second: snow-present sprite (2)_41
+  - first:
+      213: 1801817913575599471
+    second: snow-present sprite (2)_42
+  - first:
+      213: 7254181042802249202
+    second: snow-present sprite (2)_43
+  - first:
+      213: 1056445726703644215
+    second: snow-present sprite (2)_44
+  - first:
+      213: 1424116796693895554
+    second: snow-present sprite (2)_45
+  - first:
+      213: -8761987063502921955
+    second: snow-present sprite (2)_46
+  - first:
+      213: -651939482755352737
+    second: snow-present sprite (2)_47
+  - first:
+      213: 7634812951348822118
+    second: snow-present sprite (2)_48
+  - first:
+      213: 8226021304496347615
+    second: snow-present sprite (2)_49
+  - first:
+      213: 6536060027140060344
+    second: snow-present sprite (2)_50
+  - first:
+      213: 8448657802305432729
+    second: snow-present sprite (2)_51
+  - first:
+      213: -4913794087202693049
+    second: snow-present sprite (2)_52
+  - first:
+      213: -3869575524082672974
+    second: snow-present sprite (2)_53
+  - first:
+      213: 8789009135478068401
+    second: snow-present sprite (2)_54
+  - first:
+      213: 8207556834649521424
+    second: snow-present sprite (2)_55
+  - first:
+      213: 1920225848630104859
+    second: snow-present sprite (2)_56
+  - first:
+      213: -7434471226107050027
+    second: snow-present sprite (2)_57
+  - first:
+      213: -8795346744004405768
+    second: snow-present sprite (2)_58
+  - first:
+      213: -4657311575282530208
+    second: snow-present sprite (2)_59
+  - first:
+      213: -7422293835054604531
+    second: snow-present sprite (2)_60
+  - first:
+      213: -5116427970649353799
+    second: snow-present sprite (2)_61
+  - first:
+      213: 3263520556921365499
+    second: snow-present sprite (2)_62
+  - first:
+      213: 7877875076078428595
+    second: snow-present sprite (2)_63
+  - first:
+      213: 2588040954774824965
+    second: snow-present sprite (2)_64
+  - first:
+      213: 1509860705793458776
+    second: snow-present sprite (2)_65
+  - first:
+      213: 7097855956653108322
+    second: snow-present sprite (2)_66
+  - first:
+      213: -3321007121259201988
+    second: snow-present sprite (2)_67
+  - first:
+      213: -8665793826936360215
+    second: snow-present sprite (2)_68
+  - first:
+      213: 491259975502150617
+    second: snow-present sprite (2)_69
+  - first:
+      213: -1160527918259296568
+    second: snow-present sprite (2)_70
+  - first:
+      213: 1754242282767083402
+    second: snow-present sprite (2)_71
+  - first:
+      213: 6225667392956441724
+    second: snow-present sprite (2)_72
+  - first:
+      213: -4899499549851200564
+    second: snow-present sprite (2)_73
+  - first:
+      213: -4682476281216537658
+    second: snow-present sprite (2)_74
+  - first:
+      213: 5011451727448539754
+    second: snow-present sprite (2)_75
+  - first:
+      213: -2730368387290391196
+    second: snow-present sprite (2)_76
+  - first:
+      213: -3886566064594437500
+    second: snow-present sprite (2)_77
+  - first:
+      213: 5168826213181396519
+    second: snow-present sprite (2)_78
+  - first:
+      213: 3888310739727703000
+    second: snow-present sprite (2)_79
+  - first:
+      213: -7075603225024451454
+    second: snow-present sprite (2)_80
+  - first:
+      213: -3909696277646015894
+    second: snow-present sprite (2)_81
+  - first:
+      213: -3243151403171485890
+    second: snow-present sprite (2)_82
+  - first:
+      213: 3721226174774360754
+    second: snow-present sprite (2)_83
+  - first:
+      213: 7123759014200964411
+    second: snow-present sprite (2)_84
+  - first:
+      213: 26251572043019625
+    second: snow-present sprite (2)_85
+  - first:
+      213: 4477985773170367341
+    second: snow-present sprite (2)_86
+  - first:
+      213: -2949718705032050290
+    second: snow-present sprite (2)_87
+  - first:
+      213: 525063261668213465
+    second: snow-present sprite (2)_88
+  - first:
+      213: -4176472036091206273
+    second: snow-present sprite (2)_89
+  - first:
+      213: -897778192380453676
+    second: snow-present sprite (2)_90
+  - first:
+      213: 5083330927302955941
+    second: snow-present sprite (2)_91
+  - first:
+      213: 913615265035416193
+    second: snow-present sprite (2)_92
+  - first:
+      213: -9118475356288474035
+    second: snow-present sprite (2)_93
+  - first:
+      213: 2150151558898021580
+    second: snow-present sprite (2)_94
+  - first:
+      213: -3808589038303301270
+    second: snow-present sprite (2)_95
+  - first:
+      213: -2675351390284996901
+    second: snow-present sprite (2)_96
+  - first:
+      213: -5807253041499985434
+    second: snow-present sprite (2)_97
+  - first:
+      213: 3240362567306909861
+    second: snow-present sprite (2)_98
+  - first:
+      213: 1316928885085158255
+    second: snow-present sprite (2)_99
+  - first:
+      213: 3988190002606195636
+    second: snow-present sprite (2)_100
+  - first:
+      213: -1249509687968768826
+    second: snow-present sprite (2)_101
+  - first:
+      213: -4883105154247031909
+    second: snow-present sprite (2)_102
+  - first:
+      213: 2131969240468031046
+    second: snow-present sprite (2)_103
+  - first:
+      213: -736718672675828453
+    second: snow-present sprite (2)_104
+  - first:
+      213: -3998319457668273797
+    second: snow-present sprite (2)_105
+  - first:
+      213: -2781639044204923525
+    second: snow-present sprite (2)_106
+  - first:
+      213: -7324461074190616706
+    second: snow-present sprite (2)_107
+  - first:
+      213: -2933292750623746523
+    second: snow-present sprite (2)_108
+  - first:
+      213: -8800514074613099040
+    second: snow-present sprite (2)_109
+  - first:
+      213: -3321591295225475563
+    second: snow-present sprite (2)_110
+  - first:
+      213: 7828049632349813900
+    second: snow-present sprite (2)_111
+  - first:
+      213: 5626739550142180684
+    second: snow-present sprite (2)_112
+  - first:
+      213: -1480432344867041854
+    second: snow-present sprite (2)_113
+  - first:
+      213: 1546670891099060604
+    second: snow-present sprite (2)_114
+  - first:
+      213: 8387564308861783948
+    second: snow-present sprite (2)_115
+  - first:
+      213: 5514475520875746997
+    second: snow-present sprite (2)_116
+  - first:
+      213: -8060848634611299336
+    second: snow-present sprite (2)_117
+  - first:
+      213: -4571655935628300315
+    second: snow-present sprite (2)_118
+  - first:
+      213: 2574354795540989987
+    second: snow-present sprite (2)_119
+  - first:
+      213: 2235874357614740279
+    second: snow-present sprite (2)_120
+  - first:
+      213: -934223532498638112
+    second: snow-present sprite (2)_121
+  - first:
+      213: 8786867928879967534
+    second: snow-present sprite (2)_122
+  - first:
+      213: 2651791775421628514
+    second: snow-present sprite (2)_123
+  - first:
+      213: 4480744811855764482
+    second: snow-present sprite (2)_124
+  - first:
+      213: -9097415406585737389
+    second: snow-present sprite (2)_125
+  - first:
+      213: 6926187833658017551
+    second: snow-present sprite (2)_126
+  - first:
+      213: -5773611997481669502
+    second: snow-present sprite (2)_127
+  - first:
+      213: 3058464496036771134
+    second: snow-present sprite (2)_128
+  - first:
+      213: -4667368605428046593
+    second: snow-present sprite (2)_129
+  - first:
+      213: 5319958889713578833
+    second: snow-present sprite (2)_130
+  - first:
+      213: -617552481109512642
+    second: snow-present sprite (2)_131
+  - first:
+      213: -6406148769506586184
+    second: snow-present sprite (2)_132
+  - first:
+      213: 101986385157372195
+    second: snow-present sprite (2)_133
+  - first:
+      213: 5507264635884308539
+    second: snow-present sprite (2)_134
+  - first:
+      213: -8842052108925548201
+    second: snow-present sprite (2)_135
+  - first:
+      213: 3390636143445016261
+    second: snow-present sprite (2)_136
+  - first:
+      213: -5313029613013499555
+    second: snow-present sprite (2)_137
+  - first:
+      213: -6109379798764442278
+    second: snow-present sprite (2)_138
+  - first:
+      213: -3452664561793523751
+    second: snow-present sprite (2)_139
+  - first:
+      213: 9063999372698114059
+    second: snow-present sprite (2)_140
+  - first:
+      213: 2873174761149809358
+    second: snow-present sprite (2)_141
+  - first:
+      213: -5747002992867156949
+    second: snow-present sprite (2)_142
+  - first:
+      213: -2412138873036183771
+    second: snow-present sprite (2)_143
+  - first:
+      213: -54420926765070272
+    second: snow-present sprite (2)_144
+  - first:
+      213: 7258667338292899532
+    second: snow-present sprite (2)_145
+  - first:
+      213: 1141352203102031402
+    second: snow-present sprite (2)_146
+  - first:
+      213: 178003109585577502
+    second: snow-present sprite (2)_147
+  - first:
+      213: -282338404543862501
+    second: snow-present sprite (2)_148
+  - first:
+      213: 4274164659558367789
+    second: snow-present sprite (2)_149
+  - first:
+      213: 6816753438938566682
+    second: snow-present sprite (2)_150
+  - first:
+      213: -6386136351876394579
+    second: snow-present sprite (2)_151
+  - first:
+      213: 201113945839167284
+    second: snow-present sprite (2)_152
+  - first:
+      213: 4442082794922450545
+    second: snow-present sprite (2)_153
+  - first:
+      213: 9006748130823094817
+    second: snow-present sprite (2)_154
+  - first:
+      213: 7588004081870112513
+    second: snow-present sprite (2)_155
+  - first:
+      213: 7001422914587619707
+    second: snow-present sprite (2)_156
+  - first:
+      213: 1054020882058703473
+    second: snow-present sprite (2)_157
+  - first:
+      213: -1570725451574400974
+    second: snow-present sprite (2)_158
+  - first:
+      213: -5505203215727185431
+    second: snow-present sprite (2)_159
+  - first:
+      213: -4617765796742102600
+    second: snow-present sprite (2)_160
+  - first:
+      213: 4664190766276453469
+    second: snow-present sprite (2)_161
+  - first:
+      213: 6349900814375950013
+    second: snow-present sprite (2)_162
+  - first:
+      213: 5086084142985576378
+    second: snow-present sprite (2)_163
+  - first:
+      213: 4538435601016778632
+    second: snow-present sprite (2)_164
+  - first:
+      213: 8880413692821197652
+    second: snow-present sprite (2)_165
+  - first:
+      213: 7758631417355605390
+    second: snow-present sprite (2)_166
+  - first:
+      213: -3872225230932091365
+    second: snow-present sprite (2)_167
+  - first:
+      213: -2430336322197495518
+    second: snow-present sprite (2)_168
+  - first:
+      213: -4544356384562803601
+    second: snow-present sprite (2)_169
+  - first:
+      213: 2528035754942240224
+    second: snow-present sprite (2)_170
+  - first:
+      213: -6384540205817255406
+    second: snow-present sprite (2)_171
+  - first:
+      213: -7420305443154638802
+    second: snow-present sprite (2)_172
+  - first:
+      213: -4006492040138181073
+    second: snow-present sprite (2)_173
+  - first:
+      213: -8129640425859742848
+    second: snow-present sprite (2)_174
+  - first:
+      213: -2579410067910350090
+    second: snow-present sprite (2)_175
+  - first:
+      213: -3627808718572661228
+    second: snow-present sprite (2)_176
+  - first:
+      213: 4714008165745052900
+    second: snow-present sprite (2)_177
+  - first:
+      213: 5039227814548980650
+    second: snow-present sprite (2)_178
+  - first:
+      213: -2506572814496790419
+    second: snow-present sprite (2)_179
+  - first:
+      213: -2960988750603406115
+    second: snow-present sprite (2)_180
+  - first:
+      213: -3803628073873031788
+    second: snow-present sprite (2)_181
+  - first:
+      213: 5067662863899129530
+    second: snow-present sprite (2)_182
+  - first:
+      213: -8811244443503966729
+    second: snow-present sprite (2)_183
+  - first:
+      213: -4337581251420724508
+    second: snow-present sprite (2)_184
+  - first:
+      213: -1437317494811824730
+    second: snow-present sprite (2)_185
+  - first:
+      213: 7255409422624288599
+    second: snow-present sprite (2)_186
+  - first:
+      213: 1525367283584994131
+    second: snow-present sprite (2)_187
+  - first:
+      213: -6748296936980065862
+    second: snow-present sprite (2)_188
+  - first:
+      213: -2407842728766789290
+    second: snow-present sprite (2)_189
+  - first:
+      213: 8783230103892438305
+    second: snow-present sprite (2)_190
+  - first:
+      213: 6671899727665436011
+    second: snow-present sprite (2)_191
+  - first:
+      213: -9021284358858238224
+    second: snow-present sprite (2)_192
+  - first:
+      213: -9070851497075656850
+    second: snow-present sprite (2)_193
+  - first:
+      213: -6532443745449651379
+    second: snow-present sprite (2)_194
+  - first:
+      213: 6088349163185108882
+    second: snow-present sprite (2)_195
+  - first:
+      213: 5371041137481193565
+    second: snow-present sprite (2)_196
+  - first:
+      213: -7673991668033578857
+    second: snow-present sprite (2)_197
+  - first:
+      213: 8491863301155943813
+    second: snow-present sprite (2)_198
+  - first:
+      213: -8453935625450577131
+    second: snow-present sprite (2)_199
+  - first:
+      213: 7001860218704537351
+    second: snow-present sprite (2)_200
+  - first:
+      213: -2869806207778084498
+    second: snow-present sprite (2)_201
+  - first:
+      213: -597928373715538490
+    second: snow-present sprite (2)_202
+  - first:
+      213: 1819357690131358774
+    second: snow-present sprite (2)_203
+  - first:
+      213: -2037239439796654103
+    second: snow-present sprite (2)_204
+  - first:
+      213: -2438757307842954334
+    second: snow-present sprite (2)_205
+  - first:
+      213: 788523566940502979
+    second: snow-present sprite (2)_206
+  - first:
+      213: -5924650080207779651
+    second: snow-present sprite (2)_207
+  - first:
+      213: -6366460040652281530
+    second: snow-present sprite (2)_208
+  - first:
+      213: -8638521764195346073
+    second: snow-present sprite (2)_209
+  - first:
+      213: -1376048018926471569
+    second: snow-present sprite (2)_210
+  - first:
+      213: -885714082688062515
+    second: snow-present sprite (2)_211
+  - first:
+      213: -2362455286984586941
+    second: snow-present sprite (2)_212
+  - first:
+      213: 4219907631095593684
+    second: snow-present sprite (2)_213
+  - first:
+      213: -4981615114203567950
+    second: snow-present sprite (2)_214
+  - first:
+      213: 3456950246786623930
+    second: snow-present sprite (2)_215
+  - first:
+      213: -6516652906667883265
+    second: snow-present sprite (2)_216
+  - first:
+      213: -5364168167273977844
+    second: snow-present sprite (2)_217
+  - first:
+      213: -1327262573689725589
+    second: snow-present sprite (2)_218
+  - first:
+      213: 7538742353373453364
+    second: snow-present sprite (2)_219
+  - first:
+      213: 7715363303247612887
+    second: snow-present sprite (2)_220
+  - first:
+      213: 2380721840298269402
+    second: snow-present sprite (2)_221
+  - first:
+      213: 5549944954517073558
+    second: snow-present sprite (2)_222
+  - first:
+      213: 5482811775093043181
+    second: snow-present sprite (2)_223
+  - first:
+      213: -4297600937068105589
+    second: snow-present sprite (2)_224
+  - first:
+      213: -864011111954810131
+    second: snow-present sprite (2)_225
+  - first:
+      213: -397204329871322738
+    second: snow-present sprite (2)_226
+  - first:
+      213: -3751358785428738837
+    second: snow-present sprite (2)_227
+  - first:
+      213: 7027356934920510711
+    second: snow-present sprite (2)_228
+  - first:
+      213: 1852413815382440674
+    second: snow-present sprite (2)_229
+  - first:
+      213: -5695891432838945575
+    second: snow-present sprite (2)_230
+  - first:
+      213: -3189249737384806673
+    second: snow-present sprite (2)_231
+  - first:
+      213: 3937156434939754634
+    second: snow-present sprite (2)_232
+  - first:
+      213: 5495863131173550049
+    second: snow-present sprite (2)_233
+  - first:
+      213: 5317664394592757730
+    second: snow-present sprite (2)_234
+  - first:
+      213: -2992551354865113148
+    second: snow-present sprite (2)_235
+  - first:
+      213: -4117234939164735737
+    second: snow-present sprite (2)_236
+  - first:
+      213: -3695492179152579486
+    second: snow-present sprite (2)_237
+  - first:
+      213: 5325206136832397548
+    second: snow-present sprite (2)_238
+  - first:
+      213: 6952091160116784537
+    second: snow-present sprite (2)_239
+  - first:
+      213: -9016172913759394153
+    second: snow-present sprite (2)_240
+  - first:
+      213: -7095081388549196351
+    second: snow-present sprite (2)_241
+  - first:
+      213: 3650424705192712604
+    second: snow-present sprite (2)_242
+  - first:
+      213: 3866037922173360875
+    second: snow-present sprite (2)_243
+  - first:
+      213: 7004519099990896795
+    second: snow-present sprite (2)_244
+  - first:
+      213: -4087146548530586125
+    second: snow-present sprite (2)_245
+  - first:
+      213: 6996866113269316589
+    second: snow-present sprite (2)_246
+  - first:
+      213: 8006904419634162514
+    second: snow-present sprite (2)_247
+  - first:
+      213: 6643697303460986384
+    second: snow-present sprite (2)_248
+  - first:
+      213: 4285012277116840533
+    second: snow-present sprite (2)_249
+  - first:
+      213: 4023146023658041766
+    second: snow-present sprite (2)_250
+  - first:
+      213: -4880271603732498636
+    second: snow-present sprite (2)_251
+  - first:
+      213: 8384526352364171034
+    second: snow-present sprite (2)_252
+  - first:
+      213: 9069859251773258329
+    second: snow-present sprite (2)_253
+  - first:
+      213: -678901242153189240
+    second: snow-present sprite (2)_254
+  - first:
+      213: -2035471332051413078
+    second: snow-present sprite (2)_255
+  - first:
+      213: 3772431332178890490
+    second: snow-present sprite (2)_256
+  - first:
+      213: -80351442000432901
+    second: snow-present sprite (2)_257
+  - first:
+      213: 4782791056911272219
+    second: snow-present sprite (2)_258
+  - first:
+      213: -4178270086528833574
+    second: snow-present sprite (2)_259
+  - first:
+      213: -6456458982996446118
+    second: snow-present sprite (2)_260
+  - first:
+      213: 9018281219470430852
+    second: snow-present sprite (2)_261
+  - first:
+      213: -480882651180677810
+    second: snow-present sprite (2)_262
+  - first:
+      213: -2638434797159031162
+    second: snow-present sprite (2)_263
+  - first:
+      213: -4546807036098943321
+    second: snow-present sprite (2)_264
+  - first:
+      213: 1702051620917292418
+    second: snow-present sprite (2)_265
+  - first:
+      213: -5964182900400052690
+    second: snow-present sprite (2)_266
+  - first:
+      213: -4940685554376690011
+    second: snow-present sprite (2)_267
+  - first:
+      213: 3108836681430291668
+    second: snow-present sprite (2)_268
+  - first:
+      213: 3985249062159894241
+    second: snow-present sprite (2)_269
+  - first:
+      213: -7812381698123292307
+    second: snow-present sprite (2)_270
+  - first:
+      213: 7527779788344250283
+    second: snow-present sprite (2)_271
+  - first:
+      213: -3287282060156225347
+    second: snow-present sprite (2)_272
+  - first:
+      213: 6840885284302948095
+    second: snow-present sprite (2)_273
+  - first:
+      213: 7086115736673000855
+    second: snow-present sprite (2)_274
+  - first:
+      213: 6401567070503633603
+    second: snow-present sprite (2)_275
+  - first:
+      213: 3648069688774017039
+    second: snow-present sprite (2)_276
+  - first:
+      213: 4580802706394605975
+    second: snow-present sprite (2)_277
+  - first:
+      213: -4407941054066490478
+    second: snow-present sprite (2)_278
+  - first:
+      213: -3370153397525419309
+    second: snow-present sprite (2)_279
+  - first:
+      213: -1462910851412989769
+    second: snow-present sprite (2)_280
+  - first:
+      213: -310287920335947494
+    second: snow-present sprite (2)_281
+  - first:
+      213: -7588508915182363382
+    second: snow-present sprite (2)_282
+  - first:
+      213: -938451114660123250
+    second: snow-present sprite (2)_283
+  - first:
+      213: 6279268769494298080
+    second: snow-present sprite (2)_284
+  - first:
+      213: -5347639916336575353
+    second: snow-present sprite (2)_285
+  - first:
+      213: 2856322114144530298
+    second: snow-present sprite (2)_286
+  - first:
+      213: -8220188066382561399
+    second: snow-present sprite (2)_287
+  - first:
+      213: 5520484093628380714
+    second: snow-present sprite (2)_288
+  - first:
+      213: -7384974388813819327
+    second: snow-present sprite (2)_289
+  - first:
+      213: 224686977801553666
+    second: snow-present sprite (2)_290
+  - first:
+      213: -1958589842206480816
+    second: snow-present sprite (2)_291
+  - first:
+      213: 2527608091932717729
+    second: snow-present sprite (2)_292
+  - first:
+      213: -738470307841591402
+    second: snow-present sprite (2)_293
+  - first:
+      213: 8607320554267011872
+    second: snow-present sprite (2)_294
+  - first:
+      213: 3605696297343483366
+    second: snow-present sprite (2)_295
+  - first:
+      213: 524441013196826757
+    second: snow-present sprite (2)_296
+  - first:
+      213: 347840150595824672
+    second: snow-present sprite (2)_297
+  - first:
+      213: -1300564440225284055
+    second: snow-present sprite (2)_298
+  - first:
+      213: -9140016822752478323
+    second: snow-present sprite (2)_299
+  - first:
+      213: -1817610846332198676
+    second: snow-present sprite (2)_300
+  - first:
+      213: 4286771836973935299
+    second: snow-present sprite (2)_301
+  - first:
+      213: -1648837357420541372
+    second: snow-present sprite (2)_302
+  - first:
+      213: 484168368930456861
+    second: snow-present sprite (2)_303
+  - first:
+      213: 7852681746653736211
+    second: snow-present sprite (2)_304
+  - first:
+      213: -5591844195818419191
+    second: snow-present sprite (2)_305
+  - first:
+      213: 7567938744862331647
+    second: snow-present sprite (2)_306
+  - first:
+      213: 8366891076993491153
+    second: snow-present sprite (2)_307
+  - first:
+      213: -3794430172778773928
+    second: snow-present sprite (2)_308
+  - first:
+      213: -680974089108496867
+    second: snow-present sprite (2)_309
+  - first:
+      213: -1606645496097553070
+    second: snow-present sprite (2)_310
+  - first:
+      213: 158165115301111046
+    second: snow-present sprite (2)_311
+  - first:
+      213: -226656453798786563
+    second: snow-present sprite (2)_312
+  - first:
+      213: 1789666359170087048
+    second: snow-present sprite (2)_313
+  - first:
+      213: 8119783039913046704
+    second: snow-present sprite (2)_314
+  - first:
+      213: -4405589331237849944
+    second: snow-present sprite (2)_315
+  - first:
+      213: -5899223869584823256
+    second: snow-present sprite (2)_316
+  - first:
+      213: -5643412923408828450
+    second: snow-present sprite (2)_317
+  - first:
+      213: 1520615869703085223
+    second: snow-present sprite (2)_318
+  - first:
+      213: -2809473898188336763
+    second: snow-present sprite (2)_319
+  - first:
+      213: 763132197733124429
+    second: snow-present sprite (2)_320
+  - first:
+      213: 8094705965962154620
+    second: snow-present sprite (2)_321
+  - first:
+      213: 8767795939158623168
+    second: snow-present sprite (2)_322
+  - first:
+      213: 2483551069059390776
+    second: snow-present sprite (2)_323
+  - first:
+      213: -1571280084005183304
+    second: snow-present sprite (2)_324
+  - first:
+      213: -3272153291050975895
+    second: snow-present sprite (2)_325
+  - first:
+      213: 8690581874752725212
+    second: snow-present sprite (2)_326
+  - first:
+      213: 1395953231481263428
+    second: snow-present sprite (2)_327
+  - first:
+      213: 2434674713050930714
+    second: snow-present sprite (2)_328
+  - first:
+      213: 3513625007233813784
+    second: snow-present sprite (2)_329
+  - first:
+      213: 7290273697843599326
+    second: snow-present sprite (2)_330
+  - first:
+      213: 3371007637775998466
+    second: snow-present sprite (2)_331
+  - first:
+      213: -7274883961536891686
+    second: snow-present sprite (2)_332
+  - first:
+      213: 9203614927203060470
+    second: snow-present sprite (2)_333
+  - first:
+      213: 8387705039891967056
+    second: snow-present sprite (2)_334
+  - first:
+      213: 118976180243425055
+    second: snow-present sprite (2)_335
+  - first:
+      213: -6103893055526075424
+    second: snow-present sprite (2)_336
+  - first:
+      213: -2004856112132270485
+    second: snow-present sprite (2)_337
+  - first:
+      213: -9173072204446620183
+    second: snow-present sprite (2)_338
+  - first:
+      213: 8124736861647280192
+    second: snow-present sprite (2)_339
+  - first:
+      213: -4488756257299844592
+    second: snow-present sprite (2)_340
+  - first:
+      213: 3427387090079949652
+    second: snow-present sprite (2)_341
+  - first:
+      213: 7549331649381111712
+    second: snow-present sprite (2)_342
+  - first:
+      213: 4904372051858042339
+    second: snow-present sprite (2)_343
+  - first:
+      213: -3083158152782519010
+    second: snow-present sprite (2)_344
+  - first:
+      213: -5549979393121383249
+    second: snow-present sprite (2)_345
+  - first:
+      213: -6283078820932545102
+    second: snow-present sprite (2)_346
+  - first:
+      213: -5027139385704481999
+    second: snow-present sprite (2)_347
+  - first:
+      213: 6759137689976971542
+    second: snow-present sprite (2)_348
+  - first:
+      213: 931803610804342727
+    second: snow-present sprite (2)_349
+  - first:
+      213: 5475516556790859198
+    second: snow-present sprite (2)_350
+  - first:
+      213: 6388039907602671203
+    second: snow-present sprite (2)_351
+  - first:
+      213: -5503796753505860120
+    second: snow-present sprite (2)_352
+  - first:
+      213: 7730385025882245554
+    second: snow-present sprite (2)_353
+  - first:
+      213: -4576420330280407488
+    second: snow-present sprite (2)_354
+  - first:
+      213: -1093870276137671632
+    second: snow-present sprite (2)_355
+  - first:
+      213: 5874123112580111987
+    second: snow-present sprite (2)_356
+  - first:
+      213: 3303892705369737815
+    second: snow-present sprite (2)_357
+  - first:
+      213: -2844408009763461106
+    second: snow-present sprite (2)_358
+  - first:
+      213: -5829399266677992200
+    second: snow-present sprite (2)_359
+  - first:
+      213: -6493172488057043584
+    second: snow-present sprite (2)_360
+  - first:
+      213: 1028726643757937063
+    second: snow-present sprite (2)_361
+  - first:
+      213: -5068197741848643793
+    second: snow-present sprite (2)_362
+  - first:
+      213: 9101203968761471293
+    second: snow-present sprite (2)_363
+  - first:
+      213: -3786257295700266499
+    second: snow-present sprite (2)_364
+  - first:
+      213: 7510918478507070313
+    second: snow-present sprite (2)_365
+  - first:
+      213: 4164161868408638546
+    second: snow-present sprite (2)_366
+  - first:
+      213: 575198327913109228
+    second: snow-present sprite (2)_367
+  - first:
+      213: 7993288803512860820
+    second: snow-present sprite (2)_368
+  - first:
+      213: 3663097511949068147
+    second: snow-present sprite (2)_369
+  - first:
+      213: 6877920684438107732
+    second: snow-present sprite (2)_370
+  - first:
+      213: -6676914324899777037
+    second: snow-present sprite (2)_371
+  - first:
+      213: -5083772059548981458
+    second: snow-present sprite (2)_372
+  - first:
+      213: 4339570805577357908
+    second: snow-present sprite (2)_373
+  - first:
+      213: 558336856305799709
+    second: snow-present sprite (2)_374
+  - first:
+      213: -5145655032391855054
+    second: snow-present sprite (2)_375
+  - first:
+      213: 3740393448014097905
+    second: snow-present sprite (2)_376
+  - first:
+      213: -6318966282577650021
+    second: snow-present sprite (2)_377
+  - first:
+      213: -8059966972654675320
+    second: snow-present sprite (2)_378
+  - first:
+      213: 1787118040195301500
+    second: snow-present sprite (2)_379
+  - first:
+      213: 6769501196734357471
+    second: snow-present sprite (2)_380
+  - first:
+      213: -3281387165914171421
+    second: snow-present sprite (2)_381
+  - first:
+      213: 1450774800599244515
+    second: snow-present sprite (2)_382
+  - first:
+      213: 8433025792034470656
+    second: snow-present sprite (2)_383
+  - first:
+      213: 2273296196174884142
+    second: snow-present sprite (2)_384
+  - first:
+      213: -6549374377855498862
+    second: snow-present sprite (2)_385
+  - first:
+      213: -760012420759817562
+    second: snow-present sprite (2)_386
+  - first:
+      213: -7457633689192695841
+    second: snow-present sprite (2)_387
+  - first:
+      213: -1335363894549094245
+    second: snow-present sprite (2)_388
+  - first:
+      213: -6443083974790653931
+    second: snow-present sprite (2)_389
+  - first:
+      213: -5949429530278262047
+    second: snow-present sprite (2)_390
+  - first:
+      213: -2349672122812833095
+    second: snow-present sprite (2)_391
+  - first:
+      213: 7833107250166313818
+    second: snow-present sprite (2)_392
+  - first:
+      213: 7261552210795805892
+    second: snow-present sprite (2)_393
+  - first:
+      213: 1036097288914643560
+    second: snow-present sprite (2)_394
+  - first:
+      213: -4938190042585845062
+    second: snow-present sprite (2)_395
+  - first:
+      213: 3577056585440660190
+    second: snow-present sprite (2)_396
+  - first:
+      213: -7461695780832952600
+    second: snow-present sprite (2)_397
+  - first:
+      213: 4910116500254472380
+    second: snow-present sprite (2)_398
+  - first:
+      213: -4637397977354285072
+    second: snow-present sprite (2)_399
+  - first:
+      213: 917649163063778535
+    second: snow-present sprite (2)_400
+  - first:
+      213: 3078364848200704139
+    second: snow-present sprite (2)_401
+  - first:
+      213: 962641982032753464
+    second: snow-present sprite (2)_402
+  - first:
+      213: -360014188608298683
+    second: snow-present sprite (2)_403
+  - first:
+      213: 981247770764927470
+    second: snow-present sprite (2)_404
+  - first:
+      213: 1654875677464533007
+    second: snow-present sprite (2)_405
+  - first:
+      213: -905983441789826008
+    second: snow-present sprite (2)_406
+  - first:
+      213: -6885297613969864103
+    second: snow-present sprite (2)_407
+  - first:
+      213: -6341957965250609339
+    second: snow-present sprite (2)_408
+  - first:
+      213: -548305325598269560
+    second: snow-present sprite (2)_409
+  - first:
+      213: -2968071300456307894
+    second: snow-present sprite (2)_410
+  - first:
+      213: 822274290562814231
+    second: snow-present sprite (2)_411
+  - first:
+      213: -1002001206379794108
+    second: snow-present sprite (2)_412
+  - first:
+      213: -8091638508386085375
+    second: snow-present sprite (2)_413
+  - first:
+      213: -8796334485007369206
+    second: snow-present sprite (2)_414
+  - first:
+      213: -218873522813195006
+    second: snow-present sprite (2)_415
+  - first:
+      213: 1109645212144933222
+    second: snow-present sprite (2)_416
+  - first:
+      213: 6398675273812190858
+    second: snow-present sprite (2)_417
+  - first:
+      213: 1204094787025287887
+    second: snow-present sprite (2)_418
+  - first:
+      213: 5318943678159706050
+    second: snow-present sprite (2)_419
+  - first:
+      213: 2391270807393463486
+    second: snow-present sprite (2)_420
+  - first:
+      213: -4023843759887047722
+    second: snow-present sprite (2)_421
+  - first:
+      213: -6684156665112042584
+    second: snow-present sprite (2)_422
+  - first:
+      213: 2200975865838211241
+    second: snow-present sprite (2)_423
+  - first:
+      213: 867614293487093967
+    second: snow-present sprite (2)_424
+  - first:
+      213: -2016759105240544651
+    second: snow-present sprite (2)_425
+  - first:
+      213: 4384510753924648229
+    second: snow-present sprite (2)_426
+  - first:
+      213: -6139956702844930122
+    second: snow-present sprite (2)_427
+  - first:
+      213: 4765372142355404562
+    second: snow-present sprite (2)_428
+  - first:
+      213: -3900059221798053159
+    second: snow-present sprite (2)_429
+  - first:
+      213: -5821833070402368301
+    second: snow-present sprite (2)_430
+  - first:
+      213: -1834300446971519985
+    second: snow-present sprite (2)_431
+  - first:
+      213: -4763806021406031708
+    second: snow-present sprite (2)_432
+  - first:
+      213: 851286729219069515
+    second: snow-present sprite (2)_433
+  - first:
+      213: -4239327556840809879
+    second: snow-present sprite (2)_434
+  - first:
+      213: 5260142947538202370
+    second: snow-present sprite (2)_435
+  - first:
+      213: 2860241339908930153
+    second: snow-present sprite (2)_436
+  - first:
+      213: 6258304449756645223
+    second: snow-present sprite (2)_437
+  - first:
+      213: 1401866824242289470
+    second: snow-present sprite (2)_438
+  - first:
+      213: 5581163665529458969
+    second: snow-present sprite (2)_439
+  - first:
+      213: -1489062135007212465
+    second: snow-present sprite (2)_440
+  - first:
+      213: 4212851221697860910
+    second: snow-present sprite (2)_441
+  - first:
+      213: -4521741073914598589
+    second: snow-present sprite (2)_442
+  - first:
+      213: 4162160621965570697
+    second: snow-present sprite (2)_443
+  - first:
+      213: 4978387167770922854
+    second: snow-present sprite (2)_444
+  - first:
+      213: 4358155452539203294
+    second: snow-present sprite (2)_445
+  - first:
+      213: -141661197840944647
+    second: snow-present sprite (2)_446
+  - first:
+      213: -1593316041853681678
+    second: snow-present sprite (2)_447
+  - first:
+      213: -2635712733365670658
+    second: snow-present sprite (2)_448
+  - first:
+      213: 6165305286784626347
+    second: snow-present sprite (2)_449
+  - first:
+      213: 8673919194175189098
+    second: snow-present sprite (2)_450
+  - first:
+      213: -6149673358287347541
+    second: snow-present sprite (2)_451
+  - first:
+      213: -3030270520181826643
+    second: snow-present sprite (2)_452
+  - first:
+      213: -3621115751684752193
+    second: snow-present sprite (2)_453
+  - first:
+      213: -3118774844966769421
+    second: snow-present sprite (2)_454
+  - first:
+      213: -1476620535817200498
+    second: snow-present sprite (2)_455
+  - first:
+      213: -5743505514731132681
+    second: snow-present sprite (2)_456
+  - first:
+      213: -6573066863493751957
+    second: snow-present sprite (2)_457
+  - first:
+      213: -6480215907142938674
+    second: snow-present sprite (2)_458
+  - first:
+      213: 2173024850122876125
+    second: snow-present sprite (2)_459
+  - first:
+      213: -6716378993240951963
+    second: snow-present sprite (2)_460
+  - first:
+      213: -8648334905209730086
+    second: snow-present sprite (2)_461
+  - first:
+      213: -7294330199619071669
+    second: snow-present sprite (2)_462
+  - first:
+      213: -8760139321843534227
+    second: snow-present sprite (2)_463
+  - first:
+      213: -5017933557955165813
+    second: snow-present sprite (2)_464
+  - first:
+      213: -3908966720383260150
+    second: snow-present sprite (2)_465
+  - first:
+      213: -673597232218164730
+    second: snow-present sprite (2)_466
+  - first:
+      213: 2423548440139316547
+    second: snow-present sprite (2)_467
+  - first:
+      213: 6260236007294151969
+    second: snow-present sprite (2)_468
+  - first:
+      213: 4334511374436583848
+    second: snow-present sprite (2)_469
+  - first:
+      213: -3795981887050931115
+    second: snow-present sprite (2)_470
+  - first:
+      213: -5736132576843164022
+    second: snow-present sprite (2)_471
+  - first:
+      213: 235250250116307399
+    second: snow-present sprite (2)_472
+  - first:
+      213: 502340812251647042
+    second: snow-present sprite (2)_473
+  - first:
+      213: 1301269706873672445
+    second: snow-present sprite (2)_474
+  - first:
+      213: 2928586939522551455
+    second: snow-present sprite (2)_475
+  - first:
+      213: -5519953444044901358
+    second: snow-present sprite (2)_476
+  - first:
+      213: -5659183949092451317
+    second: snow-present sprite (2)_477
+  - first:
+      213: -3689577927004663522
+    second: snow-present sprite (2)_478
+  - first:
+      213: 8125933931611357069
+    second: snow-present sprite (2)_479
+  - first:
+      213: -823241196476380444
+    second: snow-present sprite (2)_480
+  - first:
+      213: 1186375679434950973
+    second: snow-present sprite (2)_481
+  - first:
+      213: -3595390303727291075
+    second: snow-present sprite (2)_482
+  - first:
+      213: 707111283851559720
+    second: snow-present sprite (2)_483
+  - first:
+      213: -8945534225391279329
+    second: snow-present sprite (2)_484
+  - first:
+      213: -1704255663461244078
+    second: snow-present sprite (2)_485
+  - first:
+      213: -3797720504925952862
+    second: snow-present sprite (2)_486
+  - first:
+      213: 3822095135782890983
+    second: snow-present sprite (2)_487
+  - first:
+      213: 7908025255309239524
+    second: snow-present sprite (2)_488
+  - first:
+      213: -2343074486921244372
+    second: snow-present sprite (2)_489
+  - first:
+      213: -6673479732621316596
+    second: snow-present sprite (2)_490
+  - first:
+      213: -6727063172986767073
+    second: snow-present sprite (2)_491
+  - first:
+      213: -6956856027610750993
+    second: snow-present sprite (2)_492
+  - first:
+      213: -2348723228065701310
+    second: snow-present sprite (2)_493
+  - first:
+      213: 3735895695900597317
+    second: snow-present sprite (2)_494
+  - first:
+      213: 2714817523881095708
+    second: snow-present sprite (2)_495
+  - first:
+      213: 7805495915535335521
+    second: snow-present sprite (2)_496
+  - first:
+      213: 4962318129757548996
+    second: snow-present sprite (2)_497
+  - first:
+      213: -306787908286352295
+    second: snow-present sprite (2)_498
+  - first:
+      213: -20579988390338356
+    second: snow-present sprite (2)_499
+  - first:
+      213: 2805525606419317564
+    second: snow-present sprite (2)_500
+  - first:
+      213: -1596972611035895014
+    second: snow-present sprite (2)_501
+  - first:
+      213: 8974661338554475253
+    second: snow-present sprite (2)_502
+  - first:
+      213: 4010028622192110190
+    second: snow-present sprite (2)_503
+  - first:
+      213: -727192869443274821
+    second: snow-present sprite (2)_504
+  - first:
+      213: 1132029157626159360
+    second: snow-present sprite (2)_505
+  - first:
+      213: 3685353609815473988
+    second: snow-present sprite (2)_506
+  - first:
+      213: -8239589226776475584
+    second: snow-present sprite (2)_507
+  - first:
+      213: -2173922467757139211
+    second: snow-present sprite (2)_508
+  - first:
+      213: 8853035758043409319
+    second: snow-present sprite (2)_509
+  - first:
+      213: -237051014941509351
+    second: snow-present sprite (2)_510
+  - first:
+      213: -5171085815720057258
+    second: snow-present sprite (2)_511
+  - first:
+      213: 6935211703547621824
+    second: snow-present sprite (2)_512
+  - first:
+      213: -7398381569233355297
+    second: snow-present sprite (2)_513
+  - first:
+      213: 1905724173721416430
+    second: snow-present sprite (2)_514
+  - first:
+      213: -2513354091857477888
+    second: snow-present sprite (2)_515
+  - first:
+      213: -3112201769162951188
+    second: snow-present sprite (2)_516
+  - first:
+      213: 2397965993965268626
+    second: snow-present sprite (2)_517
+  - first:
+      213: 6399599577641100701
+    second: snow-present sprite (2)_518
+  - first:
+      213: 3880642474457514302
+    second: snow-present sprite (2)_519
+  - first:
+      213: -1294790235065239513
+    second: snow-present sprite (2)_520
+  - first:
+      213: -8648678492856795194
+    second: snow-present sprite (2)_521
+  - first:
+      213: -3652380007335431769
+    second: snow-present sprite (2)_522
+  - first:
+      213: -5865712010939331354
+    second: snow-present sprite (2)_523
+  - first:
+      213: -3966738309268281979
+    second: snow-present sprite (2)_524
+  - first:
+      213: -2693923506782685108
+    second: snow-present sprite (2)_525
+  - first:
+      213: 4828666284974000864
+    second: snow-present sprite (2)_526
+  - first:
+      213: 98918733205773314
+    second: snow-present sprite (2)_527
+  - first:
+      213: -1393690066859874592
+    second: snow-present sprite (2)_528
+  - first:
+      213: 5011968702955087956
+    second: snow-present sprite (2)_529
+  - first:
+      213: 2124592812496991632
+    second: snow-present sprite (2)_530
+  - first:
+      213: -8524810201355987256
+    second: snow-present sprite (2)_531
+  - first:
+      213: -4070814948130900749
+    second: snow-present sprite (2)_532
+  - first:
+      213: -1870565891801242717
+    second: snow-present sprite (2)_533
+  - first:
+      213: -8646696966773799960
+    second: snow-present sprite (2)_534
+  - first:
+      213: 2735679519451241191
+    second: snow-present sprite (2)_535
+  - first:
+      213: -2320485311424402696
+    second: snow-present sprite (2)_536
+  - first:
+      213: 2169632271847808431
+    second: snow-present sprite (2)_537
+  - first:
+      213: 8940582347639153691
+    second: snow-present sprite (2)_538
+  - first:
+      213: -7530535990040820953
+    second: snow-present sprite (2)_539
+  - first:
+      213: 61207956948019050
+    second: snow-present sprite (2)_540
+  - first:
+      213: 5482451500569642322
+    second: snow-present sprite (2)_541
+  - first:
+      213: -1462568358681927685
+    second: snow-present sprite (2)_542
+  - first:
+      213: -2055710426278390418
+    second: snow-present sprite (2)_543
+  - first:
+      213: -8520397966581535270
+    second: snow-present sprite (2)_544
+  - first:
+      213: -7503917442750204408
+    second: snow-present sprite (2)_545
+  - first:
+      213: 2299203097490578121
+    second: snow-present sprite (2)_546
+  - first:
+      213: -1732286592496272696
+    second: snow-present sprite (2)_547
+  - first:
+      213: -777354221385739357
+    second: snow-present sprite (2)_548
+  - first:
+      213: 3186836393288633200
+    second: snow-present sprite (2)_549
+  - first:
+      213: 9182030620196324778
+    second: snow-present sprite (2)_550
+  - first:
+      213: 1622174572621990550
+    second: snow-present sprite (2)_551
+  - first:
+      213: 5989068762005805602
+    second: snow-present sprite (2)_552
+  - first:
+      213: -5400662320911131586
+    second: snow-present sprite (2)_553
+  - first:
+      213: -6242156051947351210
+    second: snow-present sprite (2)_554
+  - first:
+      213: 191117076191198360
+    second: snow-present sprite (2)_555
+  - first:
+      213: 3227490789484152629
+    second: snow-present sprite (2)_556
+  - first:
+      213: -8574095974205925304
+    second: snow-present sprite (2)_557
+  - first:
+      213: 7077437124968546514
+    second: snow-present sprite (2)_558
+  - first:
+      213: -6344578759185640361
+    second: snow-present sprite (2)_559
+  - first:
+      213: 3573737378525230230
+    second: snow-present sprite (2)_560
+  - first:
+      213: -2396429162594200092
+    second: snow-present sprite (2)_561
+  - first:
+      213: 4208342547891009804
+    second: snow-present sprite (2)_562
+  - first:
+      213: 6657301276949872888
+    second: snow-present sprite (2)_563
+  - first:
+      213: -3370207643515540054
+    second: snow-present sprite (2)_564
+  - first:
+      213: 8173775279619233554
+    second: snow-present sprite (2)_565
+  - first:
+      213: 4475470180532042324
+    second: snow-present sprite (2)_566
+  - first:
+      213: -4533664133188095454
+    second: snow-present sprite (2)_567
+  - first:
+      213: -6469769180543492907
+    second: snow-present sprite (2)_568
+  - first:
+      213: 7496034707932430640
+    second: snow-present sprite (2)_569
+  - first:
+      213: -4670484276359723468
+    second: snow-present sprite (2)_570
+  - first:
+      213: -4345643793689346027
+    second: snow-present sprite (2)_571
+  - first:
+      213: -1594031477841009931
+    second: snow-present sprite (2)_572
+  - first:
+      213: 7009793770478496376
+    second: snow-present sprite (2)_573
+  - first:
+      213: 4459374608614275820
+    second: snow-present sprite (2)_574
+  - first:
+      213: -8134352800260501193
+    second: snow-present sprite (2)_575
+  - first:
+      213: -5498532219906599217
+    second: snow-present sprite (2)_576
+  - first:
+      213: 7294243303794486851
+    second: snow-present sprite (2)_577
+  - first:
+      213: -4952527518120294492
+    second: snow-present sprite (2)_578
+  - first:
+      213: -4953223764442608228
+    second: snow-present sprite (2)_579
+  - first:
+      213: -1000777635439561539
+    second: snow-present sprite (2)_580
+  - first:
+      213: 7768521313179633838
+    second: snow-present sprite (2)_581
+  - first:
+      213: 2105774800759141660
+    second: snow-present sprite (2)_582
+  - first:
+      213: 4732505824911980336
+    second: snow-present sprite (2)_583
+  - first:
+      213: -2631208787478795013
+    second: snow-present sprite (2)_584
+  - first:
+      213: 8226668984337226618
+    second: snow-present sprite (2)_585
+  - first:
+      213: -8956265084042246291
+    second: snow-present sprite (2)_586
+  - first:
+      213: -7285025394214278893
+    second: snow-present sprite (2)_587
+  - first:
+      213: 3832226179151777893
+    second: snow-present sprite (2)_588
+  - first:
+      213: -3692411470675557352
+    second: snow-present sprite (2)_589
+  - first:
+      213: 6681571984648706509
+    second: snow-present sprite (2)_590
+  - first:
+      213: 5513117929215636394
+    second: snow-present sprite (2)_591
+  - first:
+      213: 4618990181634975070
+    second: snow-present sprite (2)_592
+  - first:
+      213: 5530456217900616558
+    second: snow-present sprite (2)_593
+  - first:
+      213: -8313213190790077399
+    second: snow-present sprite (2)_594
+  - first:
+      213: 2668941719691357572
+    second: snow-present sprite (2)_595
+  - first:
+      213: 2130084270138292318
+    second: snow-present sprite (2)_596
+  - first:
+      213: -693482095038014008
+    second: snow-present sprite (2)_597
+  - first:
+      213: -1786245077180576141
+    second: snow-present sprite (2)_598
+  - first:
+      213: -7178847969248039260
+    second: snow-present sprite (2)_599
+  - first:
+      213: -9149229019894064044
+    second: snow-present sprite (2)_600
+  - first:
+      213: -7495093197129264303
+    second: snow-present sprite (2)_601
+  - first:
+      213: -1994181617986167198
+    second: snow-present sprite (2)_602
+  - first:
+      213: -7613587233661693574
+    second: snow-present sprite (2)_603
+  - first:
+      213: -9082876069577077058
+    second: snow-present sprite (2)_604
+  - first:
+      213: -8502573413322330454
+    second: snow-present sprite (2)_605
+  - first:
+      213: 8911337914289747212
+    second: snow-present sprite (2)_606
+  - first:
+      213: -938012228743705319
+    second: snow-present sprite (2)_607
+  - first:
+      213: 8162277694369058663
+    second: snow-present sprite (2)_608
+  - first:
+      213: -4786330931258681148
+    second: snow-present sprite (2)_609
+  - first:
+      213: 540528457572011938
+    second: snow-present sprite (2)_610
+  - first:
+      213: 7126850899055286647
+    second: snow-present sprite (2)_611
+  - first:
+      213: 7973257996584416727
+    second: snow-present sprite (2)_612
+  - first:
+      213: 8442922815509053221
+    second: snow-present sprite (2)_613
+  - first:
+      213: -5169980303105177627
+    second: snow-present sprite (2)_614
+  - first:
+      213: 8978170362405988746
+    second: snow-present sprite (2)_615
+  - first:
+      213: 1364795157220182861
+    second: snow-present sprite (2)_616
+  - first:
+      213: -9207426935742964467
+    second: snow-present sprite (2)_617
+  - first:
+      213: -2875240655305274473
+    second: snow-present sprite (2)_618
+  - first:
+      213: -8048225238947229378
+    second: snow-present sprite (2)_619
+  - first:
+      213: -6914929679067873963
+    second: snow-present sprite (2)_620
+  - first:
+      213: 2462737097300713552
+    second: snow-present sprite (2)_621
+  - first:
+      213: -6366782720600038966
+    second: snow-present sprite (2)_622
+  - first:
+      213: -6205119324440349804
+    second: snow-present sprite (2)_623
+  - first:
+      213: -1413723016298904997
+    second: snow-present sprite (2)_624
+  - first:
+      213: -7459499222525455280
+    second: snow-present sprite (2)_625
+  - first:
+      213: -7756818314160683009
+    second: snow-present sprite (2)_626
+  - first:
+      213: 576365985958261683
+    second: snow-present sprite (2)_627
+  - first:
+      213: -6622694250528587127
+    second: snow-present sprite (2)_628
+  - first:
+      213: -3768736903908987174
+    second: snow-present sprite (2)_629
+  - first:
+      213: -5878017274230761539
+    second: snow-present sprite (2)_630
+  - first:
+      213: 7911907586940773800
+    second: snow-present sprite (2)_631
+  - first:
+      213: 9203275688676985661
+    second: snow-present sprite (2)_632
+  - first:
+      213: 2405642912283364780
+    second: snow-present sprite (2)_633
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: snow-present sprite (2)_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 328
+        height: 366
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b9d6126075e100458a4a3ca1149f531
+      internalID: 7665443076772965434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snow-present sprite (2)_1
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 0
+        width: 328
+        height: 366
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95ccdfb015250214f8e86b2cde2597dd
+      internalID: -8825524127745461316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
