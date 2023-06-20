@@ -13,4 +13,7 @@ Also be careful to watch out for the spinning spikes they hurt Santa and his rei
 
 
 
-![image](https://github.com/Bubbles76/Christmas2DGameLevel/assets/81381376/d99d0afb-3a9c-4047-8d12-d19a252ffb13)
+![ChrisGame](https://github.com/Bubbles76/Christmas2DGameLevel/assets/81381376/20b04f15-a4e9-4e55-b5af-98b60a510a16)
+
+
+![chrisGame2](https://github.com/Bubbles76/Christmas2DGameLevel/assets/81381376/681a7f92-b026-4d4e-90c9-63b5d57b31e2)
