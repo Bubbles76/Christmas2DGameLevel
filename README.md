@@ -7,7 +7,7 @@ The game is a simple 2d platform where you control Santa in his sled with his re
 He was just leaving the north pole when he accidently knocks the sack of presents. 
 Causing the sack to untidy letting multiple gifts tumble off the sled, He needs to retrieve all the gifts that have fallen down before there lost in the snow. 
 Santa must collect them fast or he won’t be able to deliver all the presents in time for Christmas morning. 
-
+also be careful to watch out for the spinning spikes they hurt Santa and his reindeers lowering his helth bar.
 
 
 
